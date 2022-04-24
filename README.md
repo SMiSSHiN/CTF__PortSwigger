@@ -1,2 +1,1 @@
-# CTF__PortSwigger
-🦝 Web Security Academy
+# Port Swigger. Web Security Academy
